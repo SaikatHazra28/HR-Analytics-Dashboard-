@@ -66,7 +66,6 @@ This project is open for learning and portfolio purposes. Attribution is appreci
 
 **Saikat Hazra**  
 📧 [saikathazra28@gmail.com]  
-🌐 https://www.techedbysaikat.com 
 🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
